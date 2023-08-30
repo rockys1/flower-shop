@@ -265,18 +265,17 @@ body{
 .section-instagram p{
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 30px;
     margin-left: 440px;
-    margin-bottom: 15px;
     width: 42%;
     position: absolute;
 }
 
 .img-galary{
     margin:auto;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 
 .img-galary img{
@@ -372,7 +371,7 @@ body{
 
 .footer-heading h2{
     color: #FFFFFF;
-    font-size: 48px;
+    font-size: 40px;
     font-weight: 800;
     margin-top: 70px;
     margin-bottom: 20px;
@@ -385,7 +384,7 @@ body{
 .footer-dec{
     color: rgba(255, 255, 255, 0.90);
     text-align: center;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 25px;
     width: 500px;
